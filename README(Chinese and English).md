@@ -1,7 +1,8 @@
 # Minecraft Python Helper Script(MCPHS)
-# A Minecraft helper script made in Python.
+A Minecraft helper script made in Python.
 
 (一个用Python制作的Minecraft辅助脚本.)
+
 
 Chinese Tutorial:
 
@@ -18,6 +19,8 @@ Chinese Tutorial:
 (非常简单,对吧?)
 
 (目前的版本有许多不足,请见谅)
+
+
 
 English Tutorials:
 
