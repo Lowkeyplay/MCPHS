@@ -1,5 +1,5 @@
-# Minecraft Python Helper Script\n(MCPHS)
-A Minecraft helper script made in Python.
+# Minecraft Python Helper Script(MCPHS)
+# A Minecraft helper script made in Python.
 
 (一个用Python制作的Minecraft辅助脚本.)
 
