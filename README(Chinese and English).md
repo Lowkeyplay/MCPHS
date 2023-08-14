@@ -4,6 +4,7 @@ A Minecraft helper script made in Python.
 
 Chinese Tutorial:
 (中文教程:)
+
 0.请确保您安装了Python解释器和"pyautogui","sys","time"三个插件.
 1.请选择不同的语言!打开"minecraft(你的语言).py"并运行
 2.在控制台输入数字,以打开不同的功能
@@ -13,6 +14,7 @@ Chinese Tutorial:
 
 English Tutorials:
 (英文教程:)
+
 0. Please make sure you have Python interpreter and "pyautogui", "sys", "time" three plugins installed.
 1. Please select a different language! Open "Minecraft (your language) .py" and run
 2. Enter numbers in the console to turn on different functions
